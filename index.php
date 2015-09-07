@@ -1,2 +1,2 @@
 <?php
-echo "hello nimei";
+echo "hello Äã´óÒ¯";
